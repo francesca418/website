@@ -16,8 +16,41 @@
   </a>
 </p>
 
+<p align="center">
+<a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_accessibility.svg"
+      alt="lighthouse accessibility"
+    />
+  </a>
+  <a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_best-practices.svg"
+      alt="lighthouse best practices"
+    />
+  </a>
+  <a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_performance.svg"
+      alt="lighthouse performance"
+    />
+  </a>
+  <a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_pwa.svg"
+      alt="lighthouse pwa"
+    />
+  </a>
+  <a href="http://francesca-marini.info" target="_blank">
+    <img
+      src="test_results/lighthouse_seo.svg"
+      alt="lighthouse seo"
+    />
+  </a>
+</p>
+
+Visit my site [here](https://www.francesca-marini.info).
+
 This is a more streamlined, condensed version of my personal website.
 
 Gatsby.js V2 starter template based on Paradigm Shift by HTML5 UP
-
-Visit the site [here](https://www.francesca-marini.info).
