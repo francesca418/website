@@ -5,7 +5,7 @@ export default function SideFooter() {
     <footer>
       <ul className="items">
         <li>
-          <h3>You Can Find Me Here</h3>
+          <h3>You Can Reach Me Here</h3>
           <ul className="icons">
             {config.socialLinks.map(social => {
               const { icon, name, url } = social;
