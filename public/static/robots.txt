@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: */WorkExperience/
+Disallow: */Coursework/
+Disallow: */Activities/
+Disallow: */Projects/
+
+Sitemap: https://wwww.francesca-marini.info/sitemap.xml
