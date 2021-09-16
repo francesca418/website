@@ -31,13 +31,13 @@ module.exports = {
         pathToConfigModule: 'config/typography.js',
       },
     },*/
-    {
-    //resolve: 'gatsby-plugin-emotion',
+    /*{
+    resolve: 'gatsby-plugin-emotion',
     options: {
       autoLabel: process.env.NODE_ENV !== 'production',
       // eslint-disable-next-line
       labelFormat: `[filename]--[local]`,
     },
-  },
+  },*/
   ],
 };
