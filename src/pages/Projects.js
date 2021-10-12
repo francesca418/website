@@ -22,11 +22,17 @@ const IndexPage = () => (
 							</div>
 							<div className="row">
 								<p>
-									<strong>University of Pennsylvania LoReHLT 2019 Submission</strong> | <a href="https://cogcomp.seas.upenn.edu/papers/MTMWLYFSZYKHSSR19.pdf" target="_blank">Paper <i class="icon fa-link"></i></a> <br/>
+									<strong>University of Pennsylvania LoReHLT 2019 Submission</strong> | <a href="https://cogcomp.seas.upenn.edu/papers/MTMWLYFSZYKHSSR19.pdf" target="_blank">Paper <i class="icon fa-link"></i></a><br/>
 									LoReHLT Evaluations (2019)								
 								</p>
 							</div>
 							<h4>Other Projects</h4>
+							<div className="row">
+								<p>
+									<strong>Generating Place of Birth Crosswalk for the Census Numident</strong> | <a href="https://drive.google.com/file/d/1no3mbTpwG9eSFQwydoRIwdcwflmJFDQh/view?usp=sharing" target="_blank">Report Slides <i class="icon fa-link"></i></a><br/>
+									Summer Data Science Project as Civic Digital Fellow at Bureau of the Census (2021)								
+								</p>
+							</div>
 							<div className="row">
 								<p>
 									<strong>Low-Resource Machine Translation of Uyghur</strong> | <a href="https://drive.google.com/file/d/1zXaZeoKXZ7dKmhNjdrTAp3RDQ1vrulfm/view?usp=sharing" target="_blank">Paper <i class="icon fa-link"></i></a> | <a href="https://github.com/francesca418/uyghur-english-NMT" target="_blank">Github <i class="icon fa-github"></i></a><br/>
