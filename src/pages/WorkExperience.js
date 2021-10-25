@@ -51,7 +51,7 @@ const IndexPage = () => (
 							</div>
 							<div className="row">
 								<p>
-									<strong>Sales Associate, GH Bass Outlets</strong>, Sagamore, MA<br/>
+									<strong>Sales Associate, G.H. Bass & Co. Outlets</strong>, Sagamore, MA<br/>
 									<i>September 2016 - August 2017</i><br/>
 									Work the register and the sales floor, stock merchandise, and provide customer service
 								</p>
