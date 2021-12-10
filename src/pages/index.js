@@ -74,6 +74,10 @@ const IndexPage = () => (
           <h2 id="WorkExperience">Recent Work Experience</h2>
         </header>
         <div className="content">
+        <p>
+            <strong>Ab Initio Software</strong>, Lexington, MA<br/>
+            Incoming Software Developer<br/>
+          </p>
           <p>
             <strong>Dept. of Computer Science @ UPenn</strong>, Philadelphia, PA<br/>
             Teaching Assistant<br/>
@@ -83,11 +87,6 @@ const IndexPage = () => (
             <strong>Cognitive Computation Group @ UPenn</strong>, Philadelphia, PA<br/>
             Research Programmer<br/>
             March 2019 - August 2021
-          </p>
-          <p>
-            <strong>Bureau of the Census, Coding It Forward</strong>, Suitland, MD<br/>
-            Data Science Intern, Civic Digital Fellowship (virtual)<br/>
-            June 2021 - August 2021
           </p>
           <ul className="actions">
             <li>
