@@ -15,8 +15,10 @@ const IndexPage = () => (
 							<div className="row">
 								<div className="col-6 col-12-medium">
 									<ul>
+										<li>CIS 502: Analysis of Algorithms</li>
 										<li>CIS 511: Theory of Computation</li>
 										<li>CIS 519: Applied Machine Learning</li>
+										<li>CIS 523: Advanced Data Ethics</li>
 										<li>CIS 530: Computational Linguistics</li>
 										<li>CIS 550: Database & Information Systems</li>
 									</ul>
@@ -25,7 +27,9 @@ const IndexPage = () => (
 									<ul>
 										<li>CIS 557: Programming for the Web</li>
 										<li>CIS 571: Computer Organization & Design</li>
+										<li>EDUC 552: Videogames & Virtual Worlds as Teaching Tools</li>
 										<li>ESE 544: Project Management</li>
+										<li>LAW 577: Internet Law</li>
 										<li>MATH 513: Computational Linear Algebra</li>
 									</ul>
 								</div>

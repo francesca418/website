@@ -29,6 +29,12 @@ const IndexPage = () => (
 							<h4>Other Projects</h4>
 							<div className="row">
 								<p>
+									<strong>Blog-App: A Reddit-like Web Application</strong> | <a href="https://github.com/francesca418/Blog-App/wiki" target="_blank">Project Wiki <i class="icon fa-link"></i></a> | <a href="https://github.com/francesca418/Blog-App" target="_blank">Github <i class="icon fa-github"></i></a><br/>
+									Final Project for CIS 557: Programming for the Web (2021)								
+								</p>
+							</div>
+							<div className="row">
+								<p>
 									<strong>Generating Place of Birth Crosswalk for the Census Numident</strong> | <a href="https://drive.google.com/file/d/1no3mbTpwG9eSFQwydoRIwdcwflmJFDQh/view?usp=sharing" target="_blank">Report Slides <i class="icon fa-link"></i></a><br/>
 									Summer Data Science Project as Civic Digital Fellow at Bureau of the Census (2021)								
 								</p>
@@ -71,11 +77,6 @@ const IndexPage = () => (
 								Return Home
 								</Link>
 							</li>
-							{/* <li>
-								<a href="/#" className="button large">
-								Learn More
-								</a>
-							</li> */}
 							</ul>
 				</div>
 			</section>

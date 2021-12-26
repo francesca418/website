@@ -4,11 +4,10 @@ module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
     title: config.siteTitle,
-    siteUrl: `https://www.example.com`,
+    siteUrl: `https://www.francesca-marini.info/`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    //'gatsby-plugin-catch-links',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -23,21 +22,5 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
-    //'gatsby-plugin-sharp',
-    //'gatsby-plugin-sitemap',
-    /*{
-      resolve: 'gatsby-plugin-typography',
-      options: {
-        pathToConfigModule: 'config/typography.js',
-      },
-    },*/
-    /*{
-    resolve: 'gatsby-plugin-emotion',
-    options: {
-      autoLabel: process.env.NODE_ENV !== 'production',
-      // eslint-disable-next-line
-      labelFormat: `[filename]--[local]`,
-    },
-  },*/
   ],
 };

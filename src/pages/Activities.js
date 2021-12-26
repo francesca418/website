@@ -76,11 +76,6 @@ const IndexPage = () => (
 								Return Home
 								</Link>
 							</li>
-							{/* <li>
-								<a href="/#" className="button large">
-								Learn More
-								</a>
-							</li> */}
 							</ul>
 					</div>
 				</div>

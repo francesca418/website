@@ -104,12 +104,12 @@ const IndexPage = () => (
         </header>
         <div className="content">
           <ul className="feature-icons">
-            <li className="icon fa-code">Python</li>
+            <li className="icon fa-code-fork">Python</li>
             <li className="icon fa-coffee">Java</li>
             <li className="icon fa-laptop">PyTorch / AllenNLP</li>
             <li className="icon fa-database">SQL / NoSQL</li>
             <li className="icon fa-terminal">Unix / Linux</li>
-            <li className="icon fa-code-fork">JavaScript</li>
+            <li className="icon fa-code">JavaScript</li>
           </ul>
           <p>
             I also have experience with Git, LaTeX, C, OCaml, and Agile development / project management.

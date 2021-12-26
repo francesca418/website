@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-paradigmshift",
+  "name": "francesca-marini-personal-website",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Paradigm Shift by HTML5 UP",
+  "description": "Francesca Marini Personal Website",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift.git"
+    "url": "https://github.com/francesca418/website-3.0"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Francesca Marini",
+    "email": "fmarini@seas.upenn.edu"
   },
   "dependencies": {
     "gatsby": "^3.13.0",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift/issues"
+    "url": "https://github.com/francesca418/website-3.0/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-paradigmshift#readme"
+  "homepage": "https://github.com/francesca418/website-3.0"
 }

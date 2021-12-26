@@ -15,7 +15,7 @@ const IndexPage = () => (
 						<div className="row">
 								<p>
 									<strong>Incoming Software Developer, Ab Initio Software</strong>, Lexington, MA<br/>
-									<a href="https://www.abinitio.com/en/" target="_blank">WEBSITE</a>
+									<a href="https://www.abinitio.com/en/" target="_blank">Ab Initio Company Website</a>
 								</p>
 							</div>
 							<div className="row">
@@ -77,11 +77,6 @@ const IndexPage = () => (
 								Return Home
 								</Link>
 							</li>
-							{/* <li>
-								<a href="/#" className="button large">
-								Learn More
-								</a>
-							</li> */}
 							</ul>
 				</div>
 			</section>
