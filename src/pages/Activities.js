@@ -31,6 +31,7 @@ const IndexPage = () => (
 									<h6>Accomplishments</h6>
 									<ul>
 									<li><strong>Best Paper Award Co-Recipient</strong>, 2nd Workshop on Data Science with Human-in-the-Loop, NAACL (2021)</li>
+									<li><strong>Joseph Sciame National Scholarship</strong>, $5000, OSIA (2021)</li>
 									<li><strong>Civic Digital Fellow</strong>, Coding It Forward (2021)</li>
 									<li><strong>Summa Cum Laude</strong>, UPenn School of Arts & Sciences (2021)</li>
 									<li><strong>Dean's List</strong>, UPenn School of Arts & Sciences (2017 - 2021)</li>
