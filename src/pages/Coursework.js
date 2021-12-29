@@ -69,6 +69,7 @@ const IndexPage = () => (
 										<li>BIBB 030: Neurobiology of Brain Disorders</li>
 										<li>BIBB 249: Intro to Cognitive Neuroscience</li>
 										<li>PHIL 002: Philosophical Ethics</li>
+										<li>PHIL 004: History of Modern Philosophy</li>
 										<li>CIMS 102: World Film History</li>
 										<li>GSWS 001: Gender & Society</li>
 										<li>HIST 135: Cold War: A Global History</li>
