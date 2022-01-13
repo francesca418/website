@@ -19,13 +19,6 @@ const IndexPage = () => (
 								</p>
 							</div>
 							<div className="row">
-								<div className="row">
-								<p>
-									<strong>Researcher, Cognitive Computation Group, University of Pennsylvania</strong>, Philadelphia, PA<br/>
-									<i>March 2019 - August 2021</i><br/>
-									Conduct independent and group research in Prof. Dan Roth’s lab, specializing in Natural Language Processing (NLP); projects involve building AllenNLP (PyTorch) models; topics include Named Entity Recognition (NER), Semantic Role Labeling (SRL)
-								</p>
-							</div>
 								<p>
 									<strong>Teaching Assistant, Dept. of Computer Science, University of Pennsylvania</strong>, Philadelphia, PA<br/>
 									<i>MCIT 592: Discrete Math -- August - December 2019; May 2021 - Present</i><br/>
@@ -34,6 +27,14 @@ const IndexPage = () => (
 									Teach weekly recitation, conduct office hours, grade assignments / exams; answer questions on Piazza message board
 								</p>
 							</div>
+							<div className="row">
+								<p>
+									<strong>Researcher, Cognitive Computation Group, University of Pennsylvania</strong>, Philadelphia, PA<br/>
+									<i>March 2019 - August 2021</i><br/>
+									Conduct independent and group research in Prof. Dan Roth’s lab, specializing in Natural Language Processing (NLP); projects involve building AllenNLP (PyTorch) models; topics include Named Entity Recognition (NER), Semantic Role Labeling (SRL)
+								</p>
+							</div>
+								
 							<div className="row">
 								<p>
 									<strong>Researcher, Cognitive Computation Group, University of Pennsylvania</strong>, Philadelphia, PA<br/>

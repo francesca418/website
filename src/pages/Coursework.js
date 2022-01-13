@@ -18,7 +18,7 @@ const IndexPage = () => (
 										<li>CIS 502: Analysis of Algorithms</li>
 										<li>CIS 511: Theory of Computation</li>
 										<li>CIS 519: Applied Machine Learning</li>
-										<li>CIS 523: Advanced Data Ethics</li>
+										<li>CIS 523: Ethical Algorithm Design</li>
 										<li>CIS 530: Computational Linguistics</li>
 										<li>CIS 550: Database & Information Systems</li>
 									</ul>

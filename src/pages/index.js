@@ -44,7 +44,7 @@ const IndexPage = () => (
             Candidate for M.S.E. in Computer & Information Science<br/>
             School of Engineering & Applied Science<br/>
             January 2020 - May 2022<br/>
-            GPA: 3.90 / 4.00
+            GPA: 3.95 / 4.00
           </p>
           <p>
             <strong>University of Pennsylvania</strong>, Philadelphia, PA<br/>
