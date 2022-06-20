@@ -15,7 +15,7 @@ module.exports = {
     {
       icon: 'fa-envelope',
       name: 'Email',
-      url: 'mailto:fmarini@seas.upenn.edu',
+      url: 'mailto:fmarini1208@gmail.com',
     },
     {
       icon: 'fa-github',
@@ -33,5 +33,5 @@ module.exports = {
       url: 'https://www.facebook.com/profile.php?id=100006076810158',
     },
   ],
-  emailId: 'fmarini@seas.upenn.edu',
+  emailId: 'fmarini1208@gmail.com',
 };
