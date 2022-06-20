@@ -15,13 +15,14 @@ const IndexPage = () => (
 						<div className="row">
 								<p>
 									<strong>Incoming Software Developer, Ab Initio Software</strong>, Lexington, MA<br/>
-									<a href="https://www.abinitio.com/en/" target="_blank">Ab Initio Company Website</a>
+									<a href="https://www.abinitio.com/en/" target="_blank">Ab Initio Company Website</a><br/>
+									<i>August 2022 - Present</i>
 								</p>
 							</div>
 							<div className="row">
 								<p>
 									<strong>Teaching Assistant, Dept. of Computer Science, University of Pennsylvania</strong>, Philadelphia, PA<br/>
-									<i>MCIT 592: Discrete Math -- August - December 2019; May 2021 - Present</i><br/>
+									<i>MCIT 592: Discrete Math -- August - December 2019; May 2021 - May 2022</i><br/>
 									<i>CIS 262: Automata, Computability, & Complexity -- August - December 2020</i><br/>
 									<i>CIS 120: Programming Languages & Techniques -- August - December 2019</i><br/>
 									Teach weekly recitation, conduct office hours, grade assignments / exams; answer questions on Piazza message board

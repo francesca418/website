@@ -44,7 +44,7 @@ const IndexPage = () => (
             Candidate for M.S.E. in Computer & Information Science<br/>
             School of Engineering & Applied Science<br/>
             January 2020 - May 2022<br/>
-            GPA: 3.95 / 4.00
+            GPA: 3.94 / 4.00
           </p>
           <p>
             <strong>University of Pennsylvania</strong>, Philadelphia, PA<br/>
@@ -77,11 +77,12 @@ const IndexPage = () => (
         <p>
             <strong>Ab Initio Software</strong>, Lexington, MA<br/>
             Incoming Software Developer<br/>
+            August 2022 - Present
           </p>
           <p>
             <strong>Dept. of Computer Science @ UPenn</strong>, Philadelphia, PA<br/>
             Teaching Assistant<br/>
-            August 2019 - present
+            August 2019 - May 2022
           </p>
           <p>
             <strong>Cognitive Computation Group @ UPenn</strong>, Philadelphia, PA<br/>
